@@ -7,7 +7,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
-[A penalized sequential convex programming approach for continuous network design problems](https://doi.org/10.1287/ijoc.2024.0737) by L. Guo, H. Yin and J. Zhang. 
+[A Penalized Sequential Convex Programming Approach for Continuous Network Design Problems](https://doi.org/10.1287/ijoc.2024.0737) by L. Guo, H. Yin and J. Zhang. 
 
 
 ## Cite
@@ -24,7 +24,7 @@ Below is the BibTex for citing this snapshot of the repository.
 @misc{guo2025penalized,
   author =        {Lei Guo and Haian Yin and Jin Zhang},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{A penalized sequential convex programming approach for continuous network design problems}},
+  title =         {{A Penalized Sequential Convex Programming Approach for Continuous Network Design Problems}},
   year =          {2025},
   doi =           {10.1287/ijoc.2024.0737.cd},
   url =           {https://github.com/INFORMSJoC/2024.0737},
